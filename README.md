@@ -3,3 +3,5 @@
   <p align="center">❤️I'm really keen on C#❤️</p>
   <img src="https://github-readme-stats.vercel.app/api?username=Leonid-Vizel&count_private=true&title_color=fefefe&bg_color=36393f&text_color=fefefe&show_icons=true&hide_border=true&custom_title=Leonid's%20Github%20Stats">
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Leonid-Vizel)](https://github.com/ryo-ma/github-profile-trophy)
