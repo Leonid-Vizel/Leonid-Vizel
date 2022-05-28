@@ -26,9 +26,12 @@
   + [Triple Union Discord Bot](https://github.com/Leonid-Vizel/TripleUnionBot)
 + ASP.NET
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
-+ Databases (+ Excel)
++ БД (+ Excel)
   + [SQLiteToSAV](https://github.com/Leonid-Vizel/SQLiteToSAV)
   + [DbToXlsx](https://github.com/Leonid-Vizel/DbToXlsx)
++ Проекты, в которых принимал участие
+  + [Программа отдела кадров](https://github.com/MoZoLbKA/CheckYourCompany) (Аналитик)
+  + [Конструктор надгробий](https://github.com/AdelChernyatov/Tombstone_generator) (Тестировщик)
 + Для 1 Курса
   + [Задачи с подготовки к экзу 1 семестра](https://github.com/Leonid-Vizel/ControlWorkTasks)
   + Все домашние задания 1 и 2 семестры (На подходе)
