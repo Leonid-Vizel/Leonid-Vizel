@@ -4,6 +4,30 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonid-Vizel">
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leonid-Vizel">
-</div>
+
+<h1 align="center">🗺️Карта GitHub🗺️</h1>
+
++ Bitmaps
+  + [ZBitmap](https://github.com/Leonid-Vizel/ZBitmap)
++ Windows Forms
+  + [Timer](https://github.com/Leonid-Vizel/TimerWinForms)
+  + [NotePad](https://github.com/Leonid-Vizel/Notepad) и [RichNotepad](https://github.com/Leonid-Vizel/RichNotepad)
+  + [Total Commander](https://github.com/Leonid-Vizel/TotalCommanderWinForms)
+  + [Password Generator](https://github.com/Leonid-Vizel/PasswordGenerator)
+  + [Keyboard Logger](https://github.com/Leonid-Vizel/Keyboard-Logger-.NET)
+  + [Clipboard Logger](https://github.com/Leonid-Vizel/Clipboard-Logger-.NET)
+  + [Find a Pair](https://github.com/Leonid-Vizel/FindAPair)
+  + [MiMiMiMeter](https://github.com/Leonid-Vizel/MiMiMiMeter)
++ Telegram.Bot
+  + [HackathonBotPMPMPM](https://github.com/Leonid-Vizel/HackathonBotPMPMPM)
+  + [TelegramLingvoBot](https://github.com/Leonid-Vizel/TelegramLingvoBot)
++ Discord Bots
+  + [Triple Union Discord Bot](https://github.com/Leonid-Vizel/TripleUnionBot)
++ ASP.NET
+  + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
++ Databases (+ Excel)
+  + [SQLiteToSAV](https://github.com/Leonid-Vizel/SQLiteToSAV)
+  + [DbToXlsx](https://github.com/Leonid-Vizel/DbToXlsx)
++ Для 1 Курса
+  + [Задачи с подготовки к экзу 1 семестра](https://github.com/Leonid-Vizel/ControlWorkTasks)
+  + Все домашние задания 1 и 2 семестры (На подходе)
