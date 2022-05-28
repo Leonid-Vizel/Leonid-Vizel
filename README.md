@@ -22,7 +22,7 @@
 + Telegram.Bot
   + [HackathonBotPMPMPM](https://github.com/Leonid-Vizel/HackathonBotPMPMPM)
   + [TelegramLingvoBot](https://github.com/Leonid-Vizel/TelegramLingvoBot)
-+ Discord Bots
++ Discord.Net
   + [Triple Union Discord Bot](https://github.com/Leonid-Vizel/TripleUnionBot)
 + ASP.NET
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
