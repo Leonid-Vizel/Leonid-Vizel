@@ -34,4 +34,4 @@
   + [Конструктор надгробий](https://github.com/AdelChernyatov/Tombstone_generator) (Тестировщик)
 + Для 1 Курса
   + [Задачи с подготовки к экзу 1 семестра](https://github.com/Leonid-Vizel/ControlWorkTasks)
-  + Все домашние задания 1 и 2 семестры (На подходе)
+  + [Все домашние задания 1 и 2 семестры] ([На подходе](https://github.com/Leonid-Vizel/Kurs1))
