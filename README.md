@@ -17,8 +17,8 @@
   + [Keyboard Logger](https://github.com/Leonid-Vizel/Keyboard-Logger-.NET)
   + [Clipboard Logger](https://github.com/Leonid-Vizel/Clipboard-Logger-.NET)
   + [Find a Pair](https://github.com/Leonid-Vizel/FindAPair)
-  + [MiMiMiMeter](https://github.com/Leonid-Vizel/MiMiMiMeter)
-  + [VideoASCII](https://github.com/Leonid-Vizel/VideoASCII)
+  + [MiMiMiMeter](https://github.com/Leonid-Vizel/MiMiMiMeter) - WIP
+  + [VideoASCII](https://github.com/Leonid-Vizel/VideoASCII) - WIP
 + Telegram.Bot
   + [HackathonBotPMPMPM](https://github.com/Leonid-Vizel/HackathonBotPMPMPM)
   + [TelegramLingvoBot](https://github.com/Leonid-Vizel/TelegramLingvoBot)
