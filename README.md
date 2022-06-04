@@ -18,6 +18,7 @@
   + [Clipboard Logger](https://github.com/Leonid-Vizel/Clipboard-Logger-.NET)
   + [Find a Pair](https://github.com/Leonid-Vizel/FindAPair)
   + [MiMiMiMeter](https://github.com/Leonid-Vizel/MiMiMiMeter)
+  + [MineSweeper](https://github.com/Leonid-Vizel/MinesweeperWinForms)
   + [VideoASCII](https://github.com/Leonid-Vizel/VideoASCII) - WIP
 + Telegram.Bot
   + [HackathonBotPMPMPM](https://github.com/Leonid-Vizel/HackathonBotPMPMPM)
