@@ -19,7 +19,7 @@
   + [Find a Pair](https://github.com/Leonid-Vizel/FindAPair)
   + [MiMiMiMeter](https://github.com/Leonid-Vizel/MiMiMiMeter)
   + [MineSweeper](https://github.com/Leonid-Vizel/MinesweeperWinForms)
-  + [VideoASCII](https://github.com/Leonid-Vizel/VideoASCII) - WIP
+  + [VideoASCII](https://github.com/Leonid-Vizel/VideoASCII) - Work in Progress
 + Telegram.Bot
   + [HackathonBotPMPMPM](https://github.com/Leonid-Vizel/HackathonBotPMPMPM)
   + [TelegramLingvoBot](https://github.com/Leonid-Vizel/TelegramLingvoBot)
@@ -28,6 +28,7 @@
 + ASP.NET
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
   + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey)
+  + [VZTest](https://github.com/Leonid-Vizel/VZTest) - Work in Progress
 + БД (+ Excel)
   + [SQLiteToSAV](https://github.com/Leonid-Vizel/SQLiteToSAV)
   + [DbToXlsx](https://github.com/Leonid-Vizel/DbToXlsx)
