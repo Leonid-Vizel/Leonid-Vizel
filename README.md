@@ -27,6 +27,7 @@
   + [Triple Union Discord Bot](https://github.com/Leonid-Vizel/TripleUnionBot)
 + ASP.NET
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
+  + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey)
 + БД (+ Excel)
   + [SQLiteToSAV](https://github.com/Leonid-Vizel/SQLiteToSAV)
   + [DbToXlsx](https://github.com/Leonid-Vizel/DbToXlsx)
