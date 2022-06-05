@@ -24,7 +24,7 @@
   + [HackathonBotPMPMPM](https://github.com/Leonid-Vizel/HackathonBotPMPMPM)
   + [TelegramLingvoBot](https://github.com/Leonid-Vizel/TelegramLingvoBot)
 + Discord.Net
-  + [Triple Union Discord Bot](https://github.com/Leonid-Vizel/TripleUnionBot)
+  + [Triple Union Discord Bot](https://github.com/Leonid-Vizel/TripleUnionBot) - Work in Progress
 + ASP.NET
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
   + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey)
