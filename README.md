@@ -27,8 +27,8 @@
   + [Triple Union Discord Bot](https://github.com/Leonid-Vizel/TripleUnionBot) - Work in Progress
 + ASP.NET
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
-  + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey)
-  + [VZTest](https://github.com/Leonid-Vizel/VZTest) - Work in Progress
+  + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) - Rebuild needed
+  + [VZTest](https://github.com/Leonid-Vizel/VZTest) - Beta
 + БД (+ Excel)
   + [SQLiteToSAV](https://github.com/Leonid-Vizel/SQLiteToSAV)
   + [DbToXlsx](https://github.com/Leonid-Vizel/DbToXlsx)
