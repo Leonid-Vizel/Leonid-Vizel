@@ -19,6 +19,7 @@
   + [Find a Pair](https://github.com/Leonid-Vizel/FindAPair)
   + [MiMiMiMeter](https://github.com/Leonid-Vizel/MiMiMiMeter)
   + [MineSweeper](https://github.com/Leonid-Vizel/MinesweeperWinForms)
+  + [ScreenCapturer](https://github.com/Leonid-Vizel/ScreenCapturer)
   + [VideoASCII](https://github.com/Leonid-Vizel/VideoASCII) - Work in Progress
 + Telegram.Bot
   + [HackathonBotPMPMPM](https://github.com/Leonid-Vizel/HackathonBotPMPMPM)
