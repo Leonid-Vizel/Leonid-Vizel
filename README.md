@@ -28,6 +28,7 @@
   + [Triple Union Discord Bot](https://github.com/Leonid-Vizel/TripleUnionBot) - Work in Progress
 + ASP.NET
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
+  + [Mt21KpfuRu](https://github.com/Leonid-Vizel/Mt22KpfuRu)
   + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) - Планируется перенос в VZTest
   + [VZTest](https://github.com/Leonid-Vizel/VZTest) - Beta
 + БД (+ Excel)
