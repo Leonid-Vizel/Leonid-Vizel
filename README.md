@@ -29,6 +29,8 @@
 + ASP.NET
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
   + [Mt21KpfuRu](https://github.com/Leonid-Vizel/Mt22KpfuRu)
+  + [NablaWeb](https://github.com/Leonid-Vizel/NablaWeb)
+  + [Pharmacoviglance](https://github.com/Leonid-Vizel/Pharmacoviglance)
   + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) - Планируется перенос в VZTest
   + [VZTest](https://github.com/Leonid-Vizel/VZTest) - Beta
 + БД (+ Excel)
