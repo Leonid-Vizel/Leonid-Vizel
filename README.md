@@ -31,8 +31,8 @@
   + [Mt21KpfuRu](https://github.com/Leonid-Vizel/Mt22KpfuRu)
   + [NablaWeb](https://github.com/Leonid-Vizel/NablaWeb)
   + [Pharmacoviglance](https://github.com/Leonid-Vizel/Pharmacoviglance)
-  + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) - Планируется перенос в VZTest
-  + [VZTest](https://github.com/Leonid-Vizel/VZTest) - Beta
+  + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) - [Устарело]Переносится в VZTest V2.0
+  + [VZTest](https://github.com/Leonid-Vizel/VZTest) - [Устарело]Идёт разработка V2.0
 + БД (+ Excel)
   + [SQLiteToSAV](https://github.com/Leonid-Vizel/SQLiteToSAV)
   + [DbToXlsx](https://github.com/Leonid-Vizel/DbToXlsx)
