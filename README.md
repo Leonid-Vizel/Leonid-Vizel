@@ -30,13 +30,11 @@
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
   + [Mt21KpfuRu](https://github.com/Leonid-Vizel/Mt22KpfuRu)
   + [NablaWeb](https://github.com/Leonid-Vizel/NablaWeb)
-  + [Pharmacoviglance](https://github.com/Leonid-Vizel/Pharmacoviglance)
-  + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) - [Устарело]Переносится в VZTest V2.0
-  + [VZTest](https://github.com/Leonid-Vizel/VZTest) - [Устарело]
-  + [VZTest v2.0](https://github.com/Leonid-Vizel/VZTest2) - Идёт разработка
+  + [:lock:Pharmacoviglance:lock:](https://github.com/Leonid-Vizel/Pharmacoviglance)
+  + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) + [VZTest](https://github.com/Leonid-Vizel/VZTest) = [VZTest V2](https://github.com/Leonid-Vizel/VZTest2) [Идёт разработка]
   + [VZCloud](https://github.com/Leonid-Vizel/VZCloud)
 + БД (+ Excel)
-  + [SQLiteToSAV](https://github.com/Leonid-Vizel/SQLiteToSAV)
+  + [SQLiteToSAV<i class="bi bi-wallet2"></i>](https://github.com/Leonid-Vizel/SQLiteToSAV)
   + [DbToXlsx](https://github.com/Leonid-Vizel/DbToXlsx)
 + Проекты, в которых принимал участие
   + [Программа отдела кадров](https://github.com/MoZoLbKA/CheckYourCompany) (Аналитик)
