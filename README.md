@@ -42,3 +42,6 @@
 + Для 1 Курса
   + [Задачи с подготовки к экзу 1 семестра](https://github.com/Leonid-Vizel/ControlWorkTasks)
   + [Все домашние задания 1 и 2 семестры](https://github.com/Leonid-Vizel/Kurs1)
+
+<h1 align="center">👤Профили👤</h1>
+<a href="https://stackexchange.com/users/21732915"><img src="https://stackexchange.com/users/flair/21732915.png" width="208" height="58" alt="profile for Midnight Lizard on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Midnight Lizard on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
