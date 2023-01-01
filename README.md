@@ -30,6 +30,7 @@
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
   + [Mt21KpfuRu](https://github.com/Leonid-Vizel/Mt22KpfuRu)
   + [NablaWeb](https://github.com/Leonid-Vizel/NablaWeb)
+  + [:lock:HeartWeb:lock:](https://github.com/Leonid-Vizel/HeartWeb)
   + [:lock:Pharmacoviglance:lock:](https://github.com/Leonid-Vizel/Pharmacoviglance)
   + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) + [VZTest](https://github.com/Leonid-Vizel/VZTest) = [VZTest V2](https://github.com/Leonid-Vizel/VZTest2) [Идёт разработка]
   + [VZCloud](https://github.com/Leonid-Vizel/VZCloud)
