@@ -32,6 +32,7 @@
   + [:lock:NablaWeb:lock:](https://github.com/Leonid-Vizel/NablaWeb)
   + [:lock:HeartWeb:lock:](https://github.com/Leonid-Vizel/HeartWeb)
   + [:lock:Pharmacoviglance:lock:](https://github.com/Leonid-Vizel/Pharmacoviglance)
+  + [:lock:WebClinicalTrials:lock:](https://github.com/Leonid-Vizel/WebClinicalTrials)
   + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) + [VZTest](https://github.com/Leonid-Vizel/VZTest) = [VZTest V2](https://github.com/Leonid-Vizel/VZTest2) [Идёт разработка]
   + [VZCloud](https://github.com/Leonid-Vizel/VZCloud)
 + БД (+ Excel)
