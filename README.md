@@ -35,6 +35,7 @@
   + [:lock:WebClinicalTrials:lock:](https://github.com/Leonid-Vizel/WebClinicalTrials)
   + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) + [VZTest](https://github.com/Leonid-Vizel/VZTest) = [VZTest V2](https://github.com/Leonid-Vizel/VZTest2) [Идёт разработка]
   + [VZCloud](https://github.com/Leonid-Vizel/VZCloud)
+  + [WebAnimalPassport](https://github.com/Leonid-Vizel/WebAnimalPassport)
 + БД (+ Excel)
   + [SQLiteToSAV<i class="bi bi-wallet2"></i>](https://github.com/Leonid-Vizel/SQLiteToSAV)
   + [DbToXlsx](https://github.com/Leonid-Vizel/DbToXlsx)
