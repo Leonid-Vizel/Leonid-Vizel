@@ -6,6 +6,7 @@
 </div>
 
 <h1 align="center">🗺️Карта GitHub🗺️</h1>
+<h2>Личные репозитории</h2>
 
 + Bitmaps
   + [ZBitmap](https://github.com/Leonid-Vizel/ZBitmap)
@@ -29,13 +30,9 @@
 + ASP.NET
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
   + [Mt21KpfuRu](https://github.com/Leonid-Vizel/Mt22KpfuRu)
-  + [:lock:NablaWeb:lock:](https://github.com/Leonid-Vizel/NablaWeb)
   + [:lock:HeartWeb:lock:](https://github.com/Leonid-Vizel/HeartWeb)
-  + [:lock:Pharmacoviglance:lock:](https://github.com/Leonid-Vizel/Pharmacoviglance)
-  + [:lock:WebClinicalTrials:lock:](https://github.com/Leonid-Vizel/WebClinicalTrials)
-  + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) + [VZTest](https://github.com/Leonid-Vizel/VZTest) = [VZTest V2](https://github.com/Leonid-Vizel/VZTest2) [Идёт разработка]
+  + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) + [VZTest](https://github.com/Leonid-Vizel/VZTest) = [VZTest V2](https://github.com/Leonid-Vizel/VZTest2) [Разработка остановлена, накопленный опыт применён в проектах Nabla Lab.]
   + [VZCloud](https://github.com/Leonid-Vizel/VZCloud)
-  + [WebAnimalPassport](https://github.com/Leonid-Vizel/WebAnimalPassport)
 + БД (+ Excel)
   + [SQLiteToSAV<i class="bi bi-wallet2"></i>](https://github.com/Leonid-Vizel/SQLiteToSAV)
   + [DbToXlsx](https://github.com/Leonid-Vizel/DbToXlsx)
@@ -45,6 +42,16 @@
 + Для 1 Курса
   + [Задачи с подготовки к экзу 1 семестра](https://github.com/Leonid-Vizel/ControlWorkTasks)
   + [Все домашние задания 1 и 2 семестры](https://github.com/Leonid-Vizel/Kurs1)
+
+<h2>Nabla Lab.</h2>
+
++ ASP.NET Core
+  + [:lock:NablaWeb:lock:](https://github.com/Leonid-Vizel/NablaWeb)
+  + [:lock:Pharmacoviglance:lock:](https://github.com/Leonid-Vizel/Pharmacoviglance)
+  + [:lock:WebClinicalTrials:lock:](https://github.com/Leonid-Vizel/WebClinicalTrials)
+  + [:lock:NeuroMonitoring:lock:](https://github.com/Leonid-Vizel/NeuroMonitoring)
+  + [WebAnimalPassport](https://github.com/Leonid-Vizel/WebAnimalPassport)
+
 
 <h1 align="center">👤Профили👤</h1>
 <a href="https://stackexchange.com/users/21732915"><img src="https://stackexchange.com/users/flair/21732915.png" width="208" height="58" alt="profile for Midnight Lizard on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Midnight Lizard on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
