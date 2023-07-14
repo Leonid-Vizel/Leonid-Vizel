@@ -50,6 +50,7 @@
   + [:lock:Pharmacoviglance:lock:](https://github.com/Leonid-Vizel/Pharmacoviglance)
   + [:lock:WebClinicalTrials:lock:](https://github.com/Leonid-Vizel/WebClinicalTrials)
   + [:lock:NeuroMonitoring:lock:](https://github.com/Leonid-Vizel/NeuroMonitoring)
+  + [:lock:MedicalCardApi:lock:](https://github.com/Leonid-Vizel/MedicalCardApi)
   + [WebAnimalPassport](https://github.com/Leonid-Vizel/WebAnimalPassport)
 
 
