@@ -21,7 +21,7 @@
   + [MiMiMiMeter](https://github.com/Leonid-Vizel/MiMiMiMeter)
   + [MineSweeper](https://github.com/Leonid-Vizel/MinesweeperWinForms)
   + [ScreenCapturer](https://github.com/Leonid-Vizel/ScreenCapturer)
-  + [VideoASCII](https://github.com/Leonid-Vizel/VideoASCII) - Work in Progress
+  + [VideoASCII](https://github.com/Leonid-Vizel/VideoASCII) - Работа приостановлена, требуется возможность использования GPU
 + Telegram.Bot
   + [HackathonBotPMPMPM](https://github.com/Leonid-Vizel/HackathonBotPMPMPM)
   + [TelegramLingvoBot](https://github.com/Leonid-Vizel/TelegramLingvoBot)
