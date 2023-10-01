@@ -4,6 +4,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Leonid-Vizel&theme=dark&hide_border=true&border_radius=10&locale=ru">
 </div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leonid-Vizel&theme=github_dark">
+</div>
 
 <h1 align="center">🗺️Карта GitHub🗺️</h1>
 <h2>Личные репозитории</h2>
