@@ -47,6 +47,14 @@
   + [Задачи с подготовки к экзу 1 семестра](https://github.com/Leonid-Vizel/ControlWorkTasks)
   + [Все домашние задания 1 и 2 семестры](https://github.com/Leonid-Vizel/Kurs1)
 
+
+<h2>Weasel (Набор библиотек) (Будут распределены на разные репозитории)</h2>
+
+  + [Audit](https://github.com/Leonid-Vizel/Weasel)
+  + [Export](https://github.com/Leonid-Vizel/Weasel)
+  + [Common](https://github.com/Leonid-Vizel/Weasel)
+
+
 <h2>Nabla Lab.</h2>
 
 + ASP.NET Core
