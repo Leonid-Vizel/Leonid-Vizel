@@ -28,8 +28,6 @@
 + Telegram.Bot
   + [HackathonBotPMPMPM](https://github.com/Leonid-Vizel/HackathonBotPMPMPM)
   + [TelegramLingvoBot](https://github.com/Leonid-Vizel/TelegramLingvoBot)
-+ Discord.Net
-  + [Triple Union Discord Bot](https://github.com/Leonid-Vizel/TripleUnionBot) - Work in Progress
 + ASP.NET
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
   + [Mt21KpfuRu](https://github.com/Leonid-Vizel/Mt22KpfuRu)
@@ -37,33 +35,32 @@
   + [:lock:GolfLifescore:lock:](https://github.com/Leonid-Vizel/GolfLifescore)
   + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) + [VZTest](https://github.com/Leonid-Vizel/VZTest) = [VZTest V2](https://github.com/Leonid-Vizel/VZTest2) [Разработка остановлена, накопленный опыт применён в проектах Nabla Lab.]
   + [VZCloud](https://github.com/Leonid-Vizel/VZCloud)
+  + [FizraDnevnikWeb](https://github.com/Leonid-Vizel/FizraDnevnikWeb)
 + БД (+ Excel)
-  + [SQLiteToSAV<i class="bi bi-wallet2"></i>](https://github.com/Leonid-Vizel/SQLiteToSAV)
+  + [SQLiteToSAV](https://github.com/Leonid-Vizel/SQLiteToSAV)
   + [DbToXlsx](https://github.com/Leonid-Vizel/DbToXlsx)
+  + [DataBaseHomeWork](https://github.com/Leonid-Vizel/DataBaseHomeWork)
 + Проекты, в которых принимал участие
   + [Программа отдела кадров](https://github.com/MoZoLbKA/CheckYourCompany) (Аналитик)
   + [Конструктор надгробий](https://github.com/AdelChernyatov/Tombstone_generator) (Тестировщик)
-+ Для 1 Курса
++ Универ
   + [Задачи с подготовки к экзу 1 семестра](https://github.com/Leonid-Vizel/ControlWorkTasks)
   + [Все домашние задания 1 и 2 семестры](https://github.com/Leonid-Vizel/Kurs1)
-
-
-<h2>Weasel (Набор библиотек)</h2>
-
-  + [Audit](https://github.com/Leonid-Vizel/Weasel.Audit)
-  + [Export](https://github.com/Leonid-Vizel/Weasel.Export)
-  + [Common](https://github.com/Leonid-Vizel/Weasel.Common)
-
+  + [3 курс 1 семестр КР по БД (Бухараев)](https://github.com/Leonid-Vizel/DbReadControlWork)
+  + [3 курс 1 семестр Лаба по БД (Бухараев)](https://github.com/Leonid-Vizel/LabaForms)
 
 <h2>Nabla Lab.</h2>
 
 + ASP.NET Core
   + [:lock:NablaWeb:lock:](https://github.com/Leonid-Vizel/NablaWeb)
-  + [:lock:Pharmacoviglance:lock:](https://github.com/Leonid-Vizel/Pharmacoviglance)
-  + [:lock:WebClinicalTrials:lock:](https://github.com/Leonid-Vizel/WebClinicalTrials)
+  + [:lock:PVSystem:lock:](https://github.com/Leonid-Vizel/PVSystem)
+  + [:lock:CTSystem:lock:](https://github.com/Leonid-Vizel/CTSystem)
   + [:lock:NeuroMonitoring:lock:](https://github.com/Leonid-Vizel/NeuroMonitoring)
   + [:lock:ECRF:lock:](https://github.com/Leonid-Vizel/ECRF)
   + [WebAnimalPassport](https://github.com/Leonid-Vizel/WebAnimalPassport)
++ .NET
+  + [:lock:Nabla Lab. Nuget:lock:](https://github.com/Leonid-Vizel/Nabla-Lab-Nuget-Packages)
+  + [:lock:OzonApiParser:lock:](https://github.com/Leonid-Vizel/OzonApiParser)
 
 
 <h1 align="center">👤Профили👤</h1>
