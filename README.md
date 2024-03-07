@@ -31,7 +31,7 @@
 + ASP.NET
   + [SchoolWeb](https://github.com/Leonid-Vizel/SchoolWeb)
   + [Mt21KpfuRu](https://github.com/Leonid-Vizel/Mt22KpfuRu)
-  + [:lock:HeartWeb:lock:](https://github.com/Leonid-Vizel/HeartWeb)
+  + [HeartWeb](https://github.com/Leonid-Vizel/HeartWeb)
   + [:lock:GolfLifescore:lock:](https://github.com/Leonid-Vizel/GolfLifescore)
   + [WebSurvey](https://github.com/Leonid-Vizel/WebSurvey) + [VZTest](https://github.com/Leonid-Vizel/VZTest) = [VZTest V2](https://github.com/Leonid-Vizel/VZTest2) [Разработка остановлена, накопленный опыт применён в проектах Nabla Lab.]
   + [VZCloud](https://github.com/Leonid-Vizel/VZCloud)
