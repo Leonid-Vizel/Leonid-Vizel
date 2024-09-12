@@ -55,6 +55,7 @@
   + [:lock:NablaWeb:lock:](https://github.com/Leonid-Vizel/NablaWeb)
   + [:lock:PVSystem:lock:](https://github.com/Leonid-Vizel/PVSystem)
   + [:lock:CTSystem:lock:](https://github.com/Leonid-Vizel/CTSystem)
+  + [:lock:NablaBuilder:lock:](https://github.com/Leonid-Vizel/NablaBuilder)
   + [:lock:NeuroMonitoring:lock:](https://github.com/Leonid-Vizel/NeuroMonitoring)
   + [:lock:ECRF:lock:](https://github.com/Leonid-Vizel/ECRF)
   + [WebAnimalPassport](https://github.com/Leonid-Vizel/WebAnimalPassport)
